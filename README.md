@@ -9,7 +9,7 @@
   <img align="center" alt="Renan-Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 ### Experience
-* Kotlin | XML | Room DB | Retrofit | API REST | MVVM | ViewModel | LiveData | Coroutines | JUnit | Mockito
+* Kotlin | Android SDK | Room DB | Retrofit | REST API | MVVM | ViewModel | LiveData | Coroutines | Dagger-Hilt | JUnit | Mockito | Jetpack Compose | XML
 
 ### Working on
-* Android Components, Jetpack Compose and Kotlin Flows
+* Android Components, Firebase and Kotlin Flows
